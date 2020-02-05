@@ -1,0 +1,8 @@
+prefix=/home/xiang/catkin_ws/devel
+
+Name: interaccion
+Description: Description of interaccion
+Version: 0.0.0
+Cflags: -I/home/xiang/catkin_ws/devel/include
+Libs: -L/home/xiang/catkin_ws/devel/lib 
+Requires: 
